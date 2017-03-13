@@ -1,7 +1,7 @@
 # Boilr Template for an Elixir Application
 
 ## Install
-Install [boilr](https://github.com/tmrts/boilr) first. then use, `boilr download roylez/boilr-elixir elixir`
+Install [boilr](https://github.com/tmrts/boilr) first. then use, `boilr template download roylez/boilr-elixir elixir`
 
 ## Usage
 `boilr use elixir <target-dir>`
